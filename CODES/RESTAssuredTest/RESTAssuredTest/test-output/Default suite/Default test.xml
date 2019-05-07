@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="DESKTOP-GOMK6OD" name="TestFramework.excelDriven" tests="1" failures="0" timestamp="15 Sep 2018 12:15:23 GMT" time="7.654" errors="0">
+  <testcase name="addBook" time="7.604" classname="TestFramework.excelDriven"/>
+</testsuite>

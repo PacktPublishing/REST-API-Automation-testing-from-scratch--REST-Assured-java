@@ -1,0 +1,18 @@
+In upcoming 2 sections, You will learn on testing Google Maps ADD Place , Delete place API.
+
+But Google Maps Add and Delete API are now depreciated. 
+ And they may not work as expected!
+
+Google Map Place Search which we have seen in last lecture Still works . You can play around with this. 
+But I would strongly recommend to go through all the lectures in sequence (though Add and Delete are depreciated) to understand
+ how Google API works as most of real time API's will be on same lines of this API and these are stepping stones for Rest API Automation learning. 
+ But Unfortunately it is not available for practice now as google depreciated it   (Place Search Still works)
+
+But do not worry! 
+ As a work around and for Practice, I have designed another API called Library API.  Please find the details of the API from the attached document
+ of this lecture. And also I have attached POSTMAN Project of it with examples..
+ Just import that project into POSTMAN and check the example to see how it is working.  This API have all the Add , GET and Delete operations just like
+ Google Map API.  I would suggest you to use this as practice as an alternative to Google Maps.    But before that  complete all the videos till Section 3 
+and then open the document so that you can relate with what you have learned till that point.
+
+Thanks!

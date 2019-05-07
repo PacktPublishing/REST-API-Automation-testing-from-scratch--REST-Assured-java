@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="resources.ExtentReporterNG"/>
+  </listeners>
+  <test name="Test(failed)" preserve-order="false">
+    <classes>
+      <class name="TestFramework.basics8">
+        <methods>
+          <include name="JiraAPICreateComment"/>
+          <include name="getData"/>
+          <include name="JiraAPIUpdate"/>
+        </methods>
+      </class>
+      <class name="TestFramework.basics3">
+        <methods>
+          <include name="getData"/>
+        </methods>
+      </class>
+      <class name="TestFramework.basics6">
+        <methods>
+          <include name="JiraAPICreateIssue"/>
+          <include name="getData"/>
+        </methods>
+      </class>
+      <class name="TestFramework.basics7">
+        <methods>
+          <include name="JiraAPICreateComment"/>
+        </methods>
+      </class>
+    </classes>
+  </test>
+</suite>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+
+<listeners>
+        <listener class-name="resources.ExtentReporterNG"/>
+    </listeners>
+  <test name="Test">
+    <classes>
+      <class name="TestFramework.basics4"/>
+      <class name="TestFramework.basics3"/>
+      <class name="TestFramework.basics2"/>
+      <class name="TestFramework.AppTest"/>
+      <class name="TestFramework.basics"/>
+      <class name="TestFramework.basics8"/>
+      <class name="TestFramework.basics7"/>
+      <class name="TestFramework.basics6"/>
+      <class name="TestFramework.basics5"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

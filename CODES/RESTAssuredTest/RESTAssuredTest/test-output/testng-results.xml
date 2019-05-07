@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="7654" started-at="2018-09-15T08:15:15Z" finished-at="2018-09-15T08:15:22Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="7654" started-at="2018-09-15T08:15:15Z" finished-at="2018-09-15T08:15:22Z">
+      <class name="TestFramework.excelDriven">
+        <test-method status="PASS" signature="addBook()" name="addBook" duration-ms="7604" started-at="2018-09-15T08:15:15Z" finished-at="2018-09-15T08:15:22Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>

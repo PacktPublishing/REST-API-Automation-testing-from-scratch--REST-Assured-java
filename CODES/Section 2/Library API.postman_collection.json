@@ -1,0 +1,73 @@
+{
+	"variables": [],
+	"info": {
+		"name": "Library API",
+		"_postman_id": "e1dd2bdc-85db-8847-9904-1b1b6ea294d8",
+		"description": "",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "AddBook",
+			"request": {
+				"url": "http://216.10.245.166/Library/Addbook.php",
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"description": ""
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n\r\n\"name\":\"Learn Appium Automation with Java\",\r\n\"isbn\":\"bczd\",\r\n\"aisle\":\"227\",\r\n\"author\":\"John foe\"\r\n}\r\n \r\n"
+				},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "GetBookByAuthor",
+			"request": {
+				"url": "http://216.10.245.166/Library/GetBook.php?AuthorName=Rahul",
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "GetBookByID",
+			"request": {
+				"url": "http://216.10.245.166/Library/GetBook.php?ID=bczd227",
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "DeleteBook",
+			"request": {
+				"url": "http://216.10.245.166/Library/DeleteBook.php",
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"description": ""
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n \r\n\"ID\" : \"a23h345122332\"\r\n \r\n}\r\n"
+				},
+				"description": ""
+			},
+			"response": []
+		}
+	]
+}
