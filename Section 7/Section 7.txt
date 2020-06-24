@@ -1,0 +1,12 @@
+Handling Dynamic Json Payloads with Parameterization
+
+
+Why Dynamic Json payloads are important to understand
+Introduction to Library API
+Rest Assured Test for Library API Add Book http method
+Sending parameters to payload from Test
+Understanding TestNg Data provider for parameterization
+Example on Parameterization of API Tests with multiple data sets
+code download
+How to handle with static json payloads
+code download

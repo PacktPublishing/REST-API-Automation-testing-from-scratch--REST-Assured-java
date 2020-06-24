@@ -1,0 +1,9 @@
+Handling Google/Facebook oauth 2.0 Authorization Grant types
+
+
+Introduction to OAuth 2.0 and different Grant types
+Understand Grant Type Authorization flow with real time example
+Flow procedure in achieving OAuth 2.0 Authentication mechanism
+Details on Practise OAuth 2.0 project to retrieve Courses list
+Postman Projects Download
+Shortcut to generate Access token through Postman OAuth 2.0 Authentication

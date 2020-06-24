@@ -1,0 +1,9 @@
+Validating the Rest API Responses
+
+
+Code Download
+Assertions on Json Response Body and Headers through Automated code
+Parsing the Json Response body using JsonPath class
+Integrating the Multiple API's with common Json response values
+Building End to End Automation using GET, POST and PUT Http Methods
+Importance of Junit/TestNG Assertions in validating the responses

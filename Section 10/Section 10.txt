@@ -1,0 +1,8 @@
+Rest Assured Automation for OAuth 2.0 Authorization code
+
+
+Building up Rest Assured Automation Test for the OAuth Project
+Integration Web UI Automation to generate Authorization code
+Formatting URL String to retrieve code using java methods
+Code download
+How to deal with Client Credentials Grant type for OAuth flow

@@ -1,0 +1,9 @@
+REST API Basics and Terminology
+
+
+Course FAQ's/Syllabus (** Must Watch****)
+Introduction to REST API and where it is used in Project Architecture
+Real time Usage of API's in industry with Examples
+Understanding GET, POST, PUT DELETE Http Crud operations of API
+What are Path,Query Parameters  & Headers in Rest API
+Notes Download

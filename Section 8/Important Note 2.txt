@@ -1,0 +1,5 @@
+Important Note
+Please do below mandatory setting and make attachments ON before watching next video
+
+From Jira page, on top right, Select Settings Icon > System > Attachments (under Advanced): Set Allow Attachments to ON
+

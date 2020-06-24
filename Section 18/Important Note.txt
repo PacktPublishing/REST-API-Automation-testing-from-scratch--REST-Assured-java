@@ -1,0 +1,8 @@
+Please note
+In the next two lectures, I will be talking about Library API and the methods we have to work with this API.
+
+But These two videos are already discussed in lecture 30, 31.  If you have already gone through those lectures, you can skip next 2 lectures i.e Lecture 95,96 and directly Jump into Lecture 97.
+
+If not please watch in the sequence to understand what is Library API and how we will use it for remaining lectures in this section.
+
+Thankyou!

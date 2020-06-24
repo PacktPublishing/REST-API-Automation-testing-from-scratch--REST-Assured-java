@@ -1,0 +1,26 @@
+Cucumber BDD API Framework Development from Scratch -1
+
+
+CheckPoint before starting Framework lectures
+Creating Maven project with Cucumber Rest Assured Dependencies
+Building Cucumber Feature file for Rest Assured API Tests
+Building Test Runner and Step Definition files for Add Place API Feature Test
+Implementing Real code in Step Definition files with reusable components
+Running the Test in Cucumber Standards with necessary Configuration changes
+Building Utility Files and Implement Logging feature in Framework
+Implement Mechanism to drive Global property values from Properties file
+Data Driven Testing Mechanism for API Tests using Cucumber example feature
+Parameterize API  Test with multiple Data sets using Cucumber Framework features
+What are Enum classes? How Framework can utilize the Enum concepts
+Removing Hardcoded resource details with Enum class Methods
+Build End to End Testcase with Add and Delete Place in Framework Standards -1
+Build End to End Testcase in Framework Standards -2
+Creating Additional Scenarios in Framework to reuse existing Step Definitions -4
+Importance of Cucumber Hooks in setting up Preconditions for API Tests  -5
+Optimizing the Framework Tests with all necessary validations  -6
+Running the Complete Framework using Maven commands  23/1
+code download
+Generate Excellent Cucumber HTML reporting with additional Plugins -23/2
+Framework Code download
+
+

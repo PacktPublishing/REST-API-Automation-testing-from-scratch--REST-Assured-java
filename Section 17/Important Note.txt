@@ -1,0 +1,2 @@
+Important Note
+In the Next lecture, We shall see how to install Jenkins and Set up in our Machines which will be used in later lectures for Framework Integration.

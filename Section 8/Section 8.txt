@@ -1,0 +1,16 @@
+Real world Example-Automating Jira API's
+
+
+Please note
+How Jira API Works?
+Important Note
+Cookie Authentication API for  Jira requests
+Jira GET,POST API Scripting for creating bugs
+Defining Path Parameters in Rest Assured code using Add Comment API
+Importance of Session Filter cookie in Rest Assured Code
+Important Note
+Sending Attachments to Rest API using MultiPart method in Rest Assured
+Integrating Query Params and Path Params in single test to restrict results
+Parsing Complex Jira Json response to retrieve the added Comment with code logic
+Importance of Assertions and Https Validations on Rest API's
+Code Download

@@ -1,0 +1,6 @@
+Understand Request and Response Spec Builders in Rest Assured
+
+
+Significance of Spec Builders in Rest Assured    Rec 12-19-19 5(builderDoc)
+Practical Example in implementing Spec Builders and optimize code  Rec 12-19-19
+Code Download

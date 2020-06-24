@@ -1,0 +1,6 @@
+CheckPoint
+That's All You need to know about Maven for now.
+
+From Next lecture, We shall focus on learning Cucumber Basics.
+
+Note : If you are already of Cucumber basics , You can safely skip this section and Move to next section

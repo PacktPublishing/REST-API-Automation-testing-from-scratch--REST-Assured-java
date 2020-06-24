@@ -1,0 +1,2 @@
+Please note
+If you have seen only audio with no video for any lecture, change your pixel settings to 720 and it works :)

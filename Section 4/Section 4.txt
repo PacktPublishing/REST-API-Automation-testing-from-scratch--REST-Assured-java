@@ -1,0 +1,6 @@
+Rest Assured setup for API Automation
+
+
+Introduction on Test API's
+Setting up Test Project with RestAssured API's
+Build Rest API Automation Test to Add Place and validate Status codes

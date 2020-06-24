@@ -1,0 +1,13 @@
+Must watch Lectures for basics brush up
+Hungry on Learning Java in Depth??
+
+Here you GO..
+
+Keeping Testers skill set  in mind,-
+
+********************* I have designed  Top notch  Java and TestNG Videos from scratch level which covers much more Core java OOPS concepts and necessary knowledge for API Framework building
+
+                      You can find them in the sections 18,19 of this course. 
+
+But my  personal advice is to Continue with the lectures in order to complete Rest API Automation learning first, and then learn java and Testng on your own pace :)
+

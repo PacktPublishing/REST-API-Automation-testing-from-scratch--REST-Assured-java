@@ -1,0 +1,14 @@
+Core Java basics
+
+
+Java program principles
+Classes,objects in Java
+Strings in Java
+String Practise exercises
+What is Interface?
+How Java classes can take advantage of Interface?
+Usage of Inheritance in Java
+Understanding google place Search API for scripting
+Practical examples on types of inheritances
+Introduction to Arrays
+Single dimensional and Multidimensional arrays usage

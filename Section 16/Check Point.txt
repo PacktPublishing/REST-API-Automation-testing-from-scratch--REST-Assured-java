@@ -1,0 +1,6 @@
+CheckPoint before starting Framework lectures
+Have you gone through  Section 15 Master Plan lecture to see if you have covered learning all Prerequisite topics on Framework design. If not please check out and make sure you gone through all topics of this course before proceeding with Framework Design.
+
+Code for this complete Framework Section will be available in the last lecture of this section to download.
+
+

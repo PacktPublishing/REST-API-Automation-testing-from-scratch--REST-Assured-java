@@ -1,0 +1,10 @@
+Diving in Depth-Automating REST API's
+
+
+Understanding Structure of Complex Nested Json and its array notations
+Json used in this Section with Queries to solve
+Retrieving the Json Array Size and its elements using JsonPath
+Iterating over every element of Json Array and accessing elements in it
+Retrieving Json Nodes on Condition logic using JsonPath
+Real Time example to solve Business logic through Json response
+Code Download

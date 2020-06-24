@@ -1,0 +1,20 @@
+Maven and Cucumber Basics (SKIP IF YOU ALREADY KNOW BASICS)
+
+
+Importance of Maven in Framework development
+Installing and configuring Maven
+Understanding Terminologies of Maven
+Creating Maven Project and importing into eclipse
+CheckPoint
+Introduction to Cucumber
+What is Gherkin syntax and how it works
+Understand the Cucumber Scenarios Usage
+Feature files and StepDefination Importance in Cucumber
+cucumber project creation template
+Understanding cucumber dependencies
+Understand the Terminologies of Automation
+Mapping step defination to feature file
+Tidygherkin plugin to generate step definations.
+Running the Tests with testRunner.
+importance of regular expressions in feature files
+How to reuse functions with different data

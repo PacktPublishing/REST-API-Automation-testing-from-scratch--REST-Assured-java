@@ -1,0 +1,7 @@
+Serialization of Input Payload using Google Maps API Example
+
+
+Google Maps Add Place Json to implement Serialization
+Build POJO classes for constructing Json Payload to API Rec 12-19-19 2
+Complete End to end Test case with Serialization Implementation  Rec 12-19-19 34
+Where to download Code

@@ -1,0 +1,13 @@
+Deserialization using POJO classes with Rest Assured
+
+
+What is Serialization and Deserialization in Rest Assured
+Libraries needed to support Serialization in Rest Assured
+Strategies in Parsing Complex nested Json using POJO classes
+Creating POJO classes for the real time Nested Array Json
+End to end Automation examples using POJO Deserialization
+Solving Complex Queries from Json with simple POJO methods -Part 1
+Solving Complex Queries from Json with simple POJO methods-Part 2
+How to showcase API Testing experience to recruiters?
+Code download
+

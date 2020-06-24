@@ -1,0 +1,18 @@
+Excel Integration with Rest Assured Test
+
+
+
+what is Apace POI API & Download Instructions
+Strategy to Access Excel Data
+Getting rows and its cells from Sheet
+Retrieving Data from Excel based on condition
+Practise Exercise- Excel Driven testing -1
+Practise Exercise- Excel Driven testing -2
+Practise Exercise- Excel Driven testing -3
+Code download
+Please note
+Introducion to Library API
+Library APi Postman and Rest Assured examples
+Conversion of HashMap into Json
+Excel Integration with Rest Assured Test
+Code download

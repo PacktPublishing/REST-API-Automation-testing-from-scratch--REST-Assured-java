@@ -1,0 +1,11 @@
+Important Noe
+In the Next lecture, I will show cookie based Authentication for Jira Server API.
+
+Use below official Jira link for reference to know more about this topic
+
+https://developer.atlassian.com/server/jira/platform/cookie-based-authentication/
+
+
+
+https://docs.atlassian.com/software/jira/docs/api/REST/7.6.1/
+

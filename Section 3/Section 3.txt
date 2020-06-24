@@ -1,0 +1,9 @@
+Getting started with REST API Testing
+
+
+Video Player Setting tips for Best Experience in viewing course
+Introduction to POSTMAN  and Google Maps API's
+Understand Add Place API and execute it through Postman
+Understand Get & Delete Place API using GET,Delete HTTp Methods using Postman
+Update Place API using PUT http method using Postman
+Google Maps POSTMAN Code Download
